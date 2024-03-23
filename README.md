@@ -5,10 +5,10 @@
 ### To start the project
 
 - First install node modules using\
-  `npm install`\
+  `npm install`
 - Create an **.env** file in **root directory**\
   `DB_URL = mongodb+srv://avijit:avijit@cluster0.vjpykvz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`\
-  `AUTH_KEY = secret2024 `\
+  `AUTH_KEY = secret2024 `
 
 - Run the code using\
   `npm run dev`
